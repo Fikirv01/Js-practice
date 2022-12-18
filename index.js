@@ -1,7 +1,7 @@
-//KOTEBE UNIVERSITY OF EDUCATION
+//KOTEBE UNIVERSITY OF EDUCATION MENELIK(I) SCIENCE SHARED CAMPUS
 //Solutions for assignment questions.
 
-//Solutions for question number 1.
+//Solutions for question number 1(Finding the next perfect square number).
 
 let input = prompt("Please enter an integer");
 let arr = [];
